@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+ipywidgets
+jupyter_ui_poll
+json
+time
+requests
+IPython.display
